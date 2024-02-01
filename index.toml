@@ -684,6 +684,11 @@ file = "mods/sodium-fabric-mc1.20-0.4.10+build.27.jar"
 hash = "30c86f7ee0a4f094fcaa1228342a72e50249f3c0fe6523667e72f57f9270085a"
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "821d6b208a91fd8572931bf52f15bc466b06e7c794333c4d0cacf3fd3736a627"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "ae0b30c99b62ec09615864f614df5449c19c02d21c6a64cec554263202bf8112"
 metafile = true
