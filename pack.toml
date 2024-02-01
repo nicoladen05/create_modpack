@@ -1,0 +1,13 @@
+name = "Create + Addons"
+author = "Nicoladen"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1eee39467915eec5e38e3d838cd6ca8c3f4bc9566993bbd6d6aff191340d67c5"
+
+[versions]
+fabric = "0.15.6"
+minecraft = "1.20.1"
