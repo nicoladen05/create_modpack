@@ -653,9 +653,8 @@ hash = "49be68990a7f854d4ee74e2c6f1c83a0b2278c82eee0ec39debfdc8ccd71d1b4"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
-metafile = true
+file = "mods/fabric-api-0.88.1+1.20.1.jar"
+hash = "39a701cc960d385960e60edc012353b517277b2c2944abe75a880870499141ab"
 
 [[files]]
 file = "mods/indium.pw.toml"
@@ -683,6 +682,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-fabric-mc1.20-0.4.10+build.27.jar"
 hash = "30c86f7ee0a4f094fcaa1228342a72e50249f3c0fe6523667e72f57f9270085a"
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "ae0b30c99b62ec09615864f614df5449c19c02d21c6a64cec554263202bf8112"
+metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
