@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
+hash = "444ec77c5eb0fc12ba13e41e303995192a4a528c4b3854ca0910cec5f6d80e75"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "edd88778bc340b5a162cafdc94accef25a1b29c9977dada033efb97715411806"
+hash = "010dde53dc5ad37b45ad6ce690963b016db7fd038b425cdda6b04e74b80988c9"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
