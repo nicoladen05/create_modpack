@@ -1,8 +1,64 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ambientsounds-client.json"
+hash = "0915aa01ed88341b94f190979d25770f7b3fcca013601578c17c1734a771ced0"
+
+[[files]]
 file = "config/iris.properties"
 hash = "67f522379cb56221779ca3edc97dd47fa9c587012f4c419bc5888e6a80b62406"
+
+[[files]]
+file = "config/itemscroller.json"
+hash = "b9a1997727d4a3001cf589901099f409a54def6e76b23bb81904ee15f4b7c2d3"
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "f1be372b7c3f2eed2faaba39e8e7ef1384fdc010ccceb99751c66702ef6bdebf"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "0c3f8df992f5af86b10c85b5bfabf40180f6f9f6f8f3098b563289c3cfb2016d"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "f5e835e1eda749a08f01abede1df6fc23be330a8250198b63f98477cffcc3e75"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+
+[[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "29857ebb80e0c8a7cb570ac609b49e7ac3f3262b6dcce93614dd23cda51e7c1d"
+metafile = true
+
+[[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "b71f58c8d8c55f69de353b6222a17598c87b17dbedfdf18e8aeae43ad77a73ed"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "c2fc745e9dc783ce306612124ae1ff0e66d3ddf4113172ccfc27c571c09b0b13"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -12,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "7a0e90760d94388f03553c3f89a61b80027f65d2e8b524169af77eece1a77241"
+metafile = true
+
+[[files]]
+file = "mods/clientharvest.pw.toml"
+hash = "9a8515246566e8d76f64c86f49b2a6d2a43e4b2deea738b99e49a442caa45c85"
 metafile = true
 
 [[files]]
@@ -40,6 +101,11 @@ hash = "f7d89fc165dea517c959a03f8477a9ce81a37508f062f450b4e29bdcef73204f"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "3fa7edc6717f0509c9fb82eb29adaf08ffbba6f733becb0a4085d71e1e43eb01"
+metafile = true
+
+[[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "49be68990a7f854d4ee74e2c6f1c83a0b2278c82eee0ec39debfdc8ccd71d1b4"
 metafile = true
@@ -47,6 +113,26 @@ metafile = true
 [[files]]
 file = "mods/fabric-api-0.88.1+1.20.1.jar"
 hash = "39a701cc960d385960e60edc012353b517277b2c2944abe75a880870499141ab"
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "a79279c798e10b673c3e7dfbe675a29e09d5709ddf38d7300356346a7d29ac13"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
+metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
@@ -58,8 +144,18 @@ file = "mods/iris-mc1.20-1.6.4.jar"
 hash = "e0ca4e507b8f36135fb053ce74dd3e48325a7f364051b0d1329f676cf8e4d6e5"
 
 [[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "942cb7252713c61b53dff087aa20cf1de90262a1efd6e115a79a2be3ea8e2c24"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
 metafile = true
 
 [[files]]
@@ -67,8 +163,23 @@ file = "mods/modmenu-7.2.2.jar"
 hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "772ad8f4bd9de64a04025c2a03262182c1511b37d7bcde5a4add5fa47cc9985c"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "297fa1e8d45f324b6e7bb8154bfa604402c2f275d6e4294e465e398c060fcde2"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "4ddabe0943463aed08fcfe20880a525cc722ca8689692d5403e2c34c2c13b2d3"
 metafile = true
 
 [[files]]
@@ -86,8 +197,33 @@ hash = "ae0b30c99b62ec09615864f614df5449c19c02d21c6a64cec554263202bf8112"
 metafile = true
 
 [[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "75b8ac35dee78b95e98d995a1d22e2b122e39425b2ab8838334b8cac849ca0f4"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "8160fba2905cad7e018adf4cd5f8494b3857612376befe39de6549af7af09ee5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "febe31c3e996c3a286a228d4bd498751080861241924eda4a3ec0b9f72bc42d8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c4bd3c8365dcec5d356ec3d3c4efbaafcbb2dc361b30fb410264eec1518a50b1"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "fade244d31c2deeb9ea1b3f698e56595b894f3ea7df3734463ee627d31860d79"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
