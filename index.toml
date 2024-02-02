@@ -145,6 +145,10 @@ hash = "97f4fb86faa43722150bb9592ab516a001fea92732975777988a8d9da50188d9"
 metafile = true
 
 [[files]]
+file = "mods/iris-flywheel-compat-1.20.1-0.2.1.jar"
+hash = "ccc415770b9bd4dec969308d39409a1c02d883bca4575e116990776559fe0d4c"
+
+[[files]]
 file = "mods/iris-mc1.20-1.6.4.jar"
 hash = "e0ca4e507b8f36135fb053ce74dd3e48325a7f364051b0d1329f676cf8e4d6e5"
 
