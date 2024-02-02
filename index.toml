@@ -93,3 +93,8 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "edd88778bc340b5a162cafdc94accef25a1b29c9977dada033efb97715411806"
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
+metafile = true
