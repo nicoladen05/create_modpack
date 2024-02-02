@@ -111,6 +111,11 @@ hash = "49be68990a7f854d4ee74e2c6f1c83a0b2278c82eee0ec39debfdc8ccd71d1b4"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "ff360ba97565b8efba9387e2b9a267937634568a8d56c39ae8711701ab499c3d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api-0.88.1+1.20.1.jar"
 hash = "39a701cc960d385960e60edc012353b517277b2c2944abe75a880870499141ab"
 
@@ -206,6 +211,11 @@ file = "mods/sodium-fabric-mc1.20-0.4.10+build.27.jar"
 hash = "30c86f7ee0a4f094fcaa1228342a72e50249f3c0fe6523667e72f57f9270085a"
 
 [[files]]
+file = "mods/spawn-mod.pw.toml"
+hash = "bb10952718e4389f58a2848a5225eed27c932ccb0aeff127fdaf874a2c50350a"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "821d6b208a91fd8572931bf52f15bc466b06e7c794333c4d0cacf3fd3736a627"
 metafile = true
@@ -213,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "ae0b30c99b62ec09615864f614df5449c19c02d21c6a64cec554263202bf8112"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "16533ac83d5cd1cb2708e080ad7996b22a595a7184a034516d46ad871776cd9b"
 metafile = true
 
 [[files]]
