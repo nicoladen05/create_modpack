@@ -211,9 +211,8 @@ file = "mods/sodium-fabric-mc1.20-0.4.10+build.27.jar"
 hash = "30c86f7ee0a4f094fcaa1228342a72e50249f3c0fe6523667e72f57f9270085a"
 
 [[files]]
-file = "mods/spawn-mod.pw.toml"
-hash = "bb10952718e4389f58a2848a5225eed27c932ccb0aeff127fdaf874a2c50350a"
-metafile = true
+file = "mods/spawn-1.0.3-fabric.jar"
+hash = "4105e9cc177ffee6ab3a0be74724d920e69bd8c1631346df5b7931024713dad1"
 
 [[files]]
 file = "mods/tectonic.pw.toml"
