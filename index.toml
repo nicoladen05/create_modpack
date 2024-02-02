@@ -71,6 +71,11 @@ hash = "7a0e90760d94388f03553c3f89a61b80027f65d2e8b524169af77eece1a77241"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "5e96138dce35e95b6efd048968440332a42c8c6d3bafe384cc303c18f073da31"
+metafile = true
+
+[[files]]
 file = "mods/clientharvest.pw.toml"
 hash = "9a8515246566e8d76f64c86f49b2a6d2a43e4b2deea738b99e49a442caa45c85"
 metafile = true
