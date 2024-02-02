@@ -149,6 +149,11 @@ hash = "942cb7252713c61b53dff087aa20cf1de90262a1efd6e115a79a2be3ea8e2c24"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
 metafile = true
