@@ -66,11 +66,6 @@ hash = "5554f0809c5a0b91f34be744e593dcb00c3f46b4921c3d1d685364cbda980cb0"
 metafile = true
 
 [[files]]
-file = "mods/automobility.pw.toml"
-hash = "94918d5613a4e0e8490b7e19b575f7b4843d8557889d71b6bfd54641dcbc0205"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "7a0e90760d94388f03553c3f89a61b80027f65d2e8b524169af77eece1a77241"
 metafile = true
