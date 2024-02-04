@@ -66,6 +66,11 @@ hash = "5554f0809c5a0b91f34be744e593dcb00c3f46b4921c3d1d685364cbda980cb0"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "94918d5613a4e0e8490b7e19b575f7b4843d8557889d71b6bfd54641dcbc0205"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "7a0e90760d94388f03553c3f89a61b80027f65d2e8b524169af77eece1a77241"
 metafile = true
@@ -91,11 +96,6 @@ hash = "fceb50162333b2cf2f251af72cc12f1a7657df07f979338dcd6e46b10b993466"
 metafile = true
 
 [[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "f9f91d2a34e68c56ada00b92d831b5794794400da27b1f7a372e214be1d48747"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f3094b99335cf26c368294878ae60312122a30ead29fea67b86095b75b15b4e8"
 metafile = true
@@ -108,11 +108,6 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "3fa7edc6717f0509c9fb82eb29adaf08ffbba6f733becb0a4085d71e1e43eb01"
-metafile = true
-
-[[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "49be68990a7f854d4ee74e2c6f1c83a0b2278c82eee0ec39debfdc8ccd71d1b4"
 metafile = true
 
 [[files]]
@@ -197,6 +192,11 @@ file = "mods/modmenu-7.2.2.jar"
 hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
 
 [[files]]
+file = "mods/packed-up-backpacks.pw.toml"
+hash = "018a38fbbaee143901945f50d47b736ec072b64f16cd4a1547eaf3a791cebcb8"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "772ad8f4bd9de64a04025c2a03262182c1511b37d7bcde5a4add5fa47cc9985c"
 metafile = true
@@ -209,6 +209,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "297fa1e8d45f324b6e7bb8154bfa604402c2f275d6e4294e465e398c060fcde2"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "55824acc371bc5b0e915f1f729120cefe076209f2a295aaf572cdb56e88a975c"
 metafile = true
 
 [[files]]
@@ -230,6 +235,21 @@ file = "mods/spawn-1.0.3-fabric.jar"
 hash = "4105e9cc177ffee6ab3a0be74724d920e69bd8c1631346df5b7931024713dad1"
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "cb374e98022cafc777b80a17e8baf9a19856d48a353551d59a8438027e17a621"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "75d35f9114a5ba32f8f23136a08d8ddd3d7bdbb55f80c88aa99f0923185b393a"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "821d6b208a91fd8572931bf52f15bc466b06e7c794333c4d0cacf3fd3736a627"
 metafile = true
@@ -247,11 +267,6 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "75b8ac35dee78b95e98d995a1d22e2b122e39425b2ab8838334b8cac849ca0f4"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "8160fba2905cad7e018adf4cd5f8494b3857612376befe39de6549af7af09ee5"
 metafile = true
 
 [[files]]
