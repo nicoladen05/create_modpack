@@ -125,6 +125,11 @@ file = "mods/fabric-api-0.88.1+1.20.1.jar"
 hash = "39a701cc960d385960e60edc012353b517277b2c2944abe75a880870499141ab"
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
@@ -147,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-mod.pw.toml"
+hash = "d5fc01eaabb7f27b207b9f0890ff211de6de01cddfdf6aac4ecb0a7f200c1655"
 metafile = true
 
 [[files]]
@@ -175,6 +185,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "4c979c2d1cb53d5dddfe8b72b3aefe0c1d0d9286b0fb46cb222cf6985b34d014"
 metafile = true
 
 [[files]]
@@ -257,11 +272,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "fade244d31c2deeb9ea1b3f698e56595b894f3ea7df3734463ee627d31860d79"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
