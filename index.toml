@@ -140,6 +140,11 @@ hash = "65a7238736733ebdba6bd8932edaff631f42b1c08efa50025247996c2ec25401"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -147,11 +152,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
-metafile = true
-
-[[files]]
-file = "mods/immersive-portals-mod.pw.toml"
-hash = "ad8768c1e8668ced51be797ee804147e25d304d500a28b0f8cf8436cdc8503a1"
 metafile = true
 
 [[files]]
