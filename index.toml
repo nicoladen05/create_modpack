@@ -208,6 +208,16 @@ hash = "f0ce44bdefdd14c608f2be0970d56fadfc948cef86fb68c6b4dd95eb48ce6f34"
 metafile = true
 
 [[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "a04b07592ea5236f1dbc64a1bd4ea86c0751f44c4f1d760a192135d09939e292"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "87c1c029562e282f922f85d9dd237406874089dc93c52dd1621fd72f5a8a1cde"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
 metafile = true
