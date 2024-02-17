@@ -165,6 +165,11 @@ hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "1d37c27ecb0c54c6e7e746cfb4ef7a69e5d2bc7821f38b6e9a150fc15e30d627"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "97f4fb86faa43722150bb9592ab516a001fea92732975777988a8d9da50188d9"
 metafile = true
