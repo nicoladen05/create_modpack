@@ -160,6 +160,11 @@ hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "4d126f78c43ca759abfae9b23bfa1cc24a05aaea89923007ad7382f128417b57"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
 metafile = true
@@ -239,6 +244,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d6d950f5e4c8d00ae178690e45a47068792733e7652fe600e83f6995a1c1f798"
 metafile = true
 
 [[files]]
