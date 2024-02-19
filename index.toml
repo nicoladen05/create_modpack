@@ -272,6 +272,11 @@ hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "b4fa7fd69976bdc74b20d15e785206b42e64a19823c0cd675be911cb03e0c2b4"
+metafile = true
+
+[[files]]
 file = "mods/sodium-fabric-mc1.20-0.4.10+build.27.jar"
 hash = "30c86f7ee0a4f094fcaa1228342a72e50249f3c0fe6523667e72f57f9270085a"
 
