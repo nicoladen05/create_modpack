@@ -1,13 +1,13 @@
 name = "YetAnotherConfigLib"
-filename = "yet-another-config-lib-fabric-3.2.1+1.20.jar"
+filename = "YetAnotherConfigLib-3.5.0+1.21-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/3hsIB5yP/yet-another-config-lib-fabric-3.2.1%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/Y8Wa10Re/YetAnotherConfigLib-3.5.0%2B1.21-fabric.jar"
 hash-format = "sha1"
-hash = "68ed6a69b22da12916cec79043011110e93ae900"
+hash = "c58dab87a7b62d0b3812c97fa69381ae041a1439"
 
 [update]
 [update.modrinth]
 mod-id = "1eAoo2KR"
-version = "3hsIB5yP"
+version = "Y8Wa10Re"
